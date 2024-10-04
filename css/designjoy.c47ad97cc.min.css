@@ -2647,7 +2647,7 @@ ul{
   grid-column-gap:24px;
   grid-row-gap:24px;
   flex-wrap:wrap;
-  align-items:center;
+  /*align-items:center;*/
   margin-top:60px;
   display:flex
 }
