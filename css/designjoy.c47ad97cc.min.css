@@ -58,6 +58,9 @@ sup{
 sub{
   bottom:-.25em
 }
+.cursor_pointer{
+  cursor: pointer;
+}
 img{
   border:0
 }
